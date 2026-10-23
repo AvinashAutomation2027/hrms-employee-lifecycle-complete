@@ -1,7 +1,6 @@
 # HRMS Employee Lifecycle - QA Automation Demo
 
-Demo implementation for **Scenario 2: HRMS Employee Lifecycle** from the Dyad Technologies practical assessment.
-
+Demo implementation for **Scenario 2: HRMS Employee Lifecycle**
 The assessment asks for a runnable automation project using POM, framework waits/auto-waiting, dynamic data, real assertions, logging/reporting, and a README. The workflow is Login → Create Employee → Search → Update → Verify Update → Delete → Search after deletion.
 
 ## Stack
